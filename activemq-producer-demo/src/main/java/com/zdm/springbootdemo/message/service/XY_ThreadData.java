@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * @class: XY_ThreadData
- * @description: 测试a
+ * @description: 测试Threadlocal
  * @author: zhaoDongMing
  * @create: 2019-04-19 11:02
  */
